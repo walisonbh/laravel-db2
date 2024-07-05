@@ -23,7 +23,7 @@
     },
     "autoload": {
     "psr-4": {
-        "walisonbh\\DB2\\": "src/"
+        "WalisonBH\\DB2\\": "src/"
     }
     },
     "extra": {
